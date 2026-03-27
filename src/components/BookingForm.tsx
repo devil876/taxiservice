@@ -114,12 +114,12 @@ export default function BookingForm() {
               </div>
 
               <button 
-                type="submit"
-                className="w-full bg-black text-white py-5 rounded-2xl font-bold text-lg hover:bg-slate-800 transition-all flex items-center justify-center gap-3"
-              >
-                <Send className="w-5 h-5" />
-                Send Booking Request
-              </button>
+  type="submit"
+  className="w-full bg-black text-white px-6 py-5 rounded-2xl font-bold text-lg hover:bg-slate-800 transition-all flex items-center justify-center gap-3"
+>
+  <Send className="w-5 h-5" />
+  Send Booking Request
+</button>
             </form>
           </div>
         </div>
