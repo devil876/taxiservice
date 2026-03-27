@@ -1,0 +1,5 @@
+{
+  "name": "DharamshalaTaxi",
+  "description": "Premium 24/7 taxi service in Dharamshala and surrounding areas. Book local rides, outstation trips, and airport transfers.",
+  "requestFramePermissions": ["geolocation"]
+}
